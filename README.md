@@ -70,16 +70,16 @@ GPS Vehicle Tracking System with real-time tracking, status updates, and daily r
 
 ## 💼 Work Experience
 
-**Assistant Manager - Arya Omnitalk**  
+**Assistant Manager(iOS Developer) - Arya Omnitalk wireless solution pvt ltd**  
 _09/2022 – Present_
 
-**iOS Developer - eNyota Learning**  
+**iOS Developer - eNyota Learning pvt ltd**  
 _03/2021 – 09/2022_
 
-**iOS Developer - FirstCry**  
+**iOS Developer - Brainbees solution pvt ltd (FirstCry.com)**  
 _02/2020 – 12/2020_
 
-**iOS Developer - Appbell Technologies**  
+**iOS Developer - Appbell Technologies pvt ltd**  
 _07/2018 – 10/2019_
 
 **iOS Developer - SCMC Pvt Ltd**  
