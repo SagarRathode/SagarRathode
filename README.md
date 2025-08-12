@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Profile Summary
-Experienced **iOS Developer** with **7.5 years** of expertise in building **scalable**, **user-friendly** mobile applications for **iPhone** and **iPad**.  
+Experienced **iOS Developer**  of expertise in building **scalable**, **user-friendly** mobile applications for **iPhone** and **iPad**.  
 
 - Skilled in **Swift**, **Objective-C**, **UIKit**, **SwiftUI**, and modern iOS frameworks.  
 - Proficient in **MVC**, **MVVM**, and **Clean Architecture** patterns.  
