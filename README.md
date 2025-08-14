@@ -91,6 +91,4 @@ _12/2016 – 07/2018_
 - **M.Sc. (Computer Science)** – Pune University, 2016  
 - **B.Sc. (Computer Science)** – Pune University, 2014  
 
----
-
-> _"Bridging the gap between great design, clean code, and high performance."_  
+--- 
