@@ -56,7 +56,7 @@ Interactive home-schooling app for kids, helping them learn through educational 
 
 ### 📍 iSpot4u  
 Tracking platform for businesses to improve efficiency, effectiveness, and security via timely communication.  
-[📱 iTunes Link](https://itunes.apple.com/us/app/imenu4u/id1021588350?ls=1&mt=8)
+[📱 iTunes Link](https://apps.apple.com/in/app/ispot4u/id1242191628)
 
 ### 🍽 iMenu4u  
 Online ordering platform for customers to view menus and place orders.  
