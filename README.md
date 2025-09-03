@@ -88,7 +88,12 @@ _12/2016 – 07/2018_
 ---
 
 ## 🎓 Education
-- **M.Sc. (Computer Science)** – Pune University, 2016  
-- **B.Sc. (Computer Science)** – Pune University, 2014  
-
+- **M.Sc. (Computer Science)** – Pune University, 2016
+  (Indira College of Commerce and Science Pune)
+- **B.Sc. (Computer Science)** – Pune University, 2014
+  (Dr. A .B .Telang Senior College Nigadi Pradhikaran)
+- **H.S.C (Science)** -- Maharashtra State Board 2011
+  (Abhiman English Medium School and Junior College Nigadi Pune)
+- **S.S.C**-2009
+  (Camp Education Society's Prerana madhyamik vidyalaya Nigadi Pune)
 --- 
