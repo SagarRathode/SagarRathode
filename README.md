@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sagar Rathode
 
-💼 **Assistant Manager - iOS Development**  
+💼 **Assistant Manager - iOS App Development**  
 📍 Pune, India  
 📞 (+91) 8975897456  
 ✉️ [sagarrathod6967@gmail.com](mailto:sagarrathod6967@gmail.com)  
