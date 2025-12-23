@@ -44,7 +44,7 @@ Experienced **iOS Developer**  of expertise in building **scalable**, **user-fri
 
 ### 📚 Abara LMS  
 The Abara LMS app provides easy access to your eLearning content on the go.  
-[📱 iTunes Link](https://apps.apple.com/us/app/abara-lms/id133817815)
+[📱 iTunes Link](https://apps.apple.com/us/app/abara-lms/id1338178151)
 
 ### 🧸 FirstCry PlayBees  
 Interactive home-schooling app for kids, helping them learn through educational games.  
